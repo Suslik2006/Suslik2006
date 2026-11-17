@@ -1,19 +1,19 @@
-<h1 align="center">Даниил · Daniel</h1>
+<h1 align="center">Привет, я Даниил 👋 · Hi, I’m Daniel</h1>
 
 <p align="center">
-  Студент PSU · Изучаю веб-разработку<br>
+  🎓 Студент PSU · Изучаю веб-разработку<br>
   PSU student · Learning web development
 </p>
 
 ---
 
-### Стек · Tech stack
+### 🛠️ Стек · Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" height="48">
 </p>
 
-### Обо мне · About me
+### 👨‍💻 Обо мне · About me
 
 Изучаю веб-разработку, собираю учебные проекты
 и пробую новые идеи. Этот профиль — мой путь от первых
@@ -24,7 +24,7 @@ and trying out new ideas. This profile follows my journey
 from my first web pages to independent projects.
 
 <details open>
-<summary><b>Сейчас · Currently</b></summary>
+<summary><b>🌱 Сейчас · Currently</b></summary>
 
 Закрепляю основы HTML, CSS и JavaScript
 и применяю знания в небольших веб-проектах.
@@ -36,13 +36,22 @@ through small web projects.
 
 <br>
 
-<details>
-<summary><b>Учебные проекты · Learning projects</b></summary>
+### 🚀 Мои проекты · My projects
 
-В репозиториях ниже — мои учебные работы и эксперименты.
-Здесь я практикуюсь и отслеживаю свой прогресс.
+**[Сложно сосредоточиться · No Focus](https://github.com/Suslik2006/slozhno-sosredotochitsya-fd)**  
+Учебный сайт с выбором темы и галереей изображений.  
+A learning project with theme switching and an image gallery.
 
-The repositories below contain my learning projects
-and experiments — a place to practice and track my progress.
+[Открыть сайт · Live demo ↗](https://suslik2006.github.io/slozhno-sosredotochitsya-fd/)
 
-</details>
+**[Закрывающий тег · Closing Tag](https://github.com/Suslik2006/zakrivayuschiy-teg-f)**  
+Учебный дневник с карточками и интерактивными элементами.  
+A card-based learning journal with interactive elements.
+
+[Открыть сайт · Live demo ↗](https://suslik2006.github.io/zakrivayuschiy-teg-f/)
+
+---
+
+### 📊 Статистика · GitHub stats
+
+<img src="https://github-stats-extended.vercel.app/api?username=Suslik2006&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub statistics for Suslik2006">
