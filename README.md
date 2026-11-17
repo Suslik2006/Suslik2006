@@ -73,4 +73,11 @@ through small web projects.
 
 ### 📊 Статистика · GitHub stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=Suslik2006&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub statistics for Suslik2006">
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Suslik2006&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub statistics" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suslik2006&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="Most used languages in public repositories" height="165">
+</p>
+
+<p align="center">
+<sub>Языки в публичных репозиториях · Languages in public repositories</sub>
+</p>
