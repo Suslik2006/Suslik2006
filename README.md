@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Даниил · Hi, I’m Daniil
 
-<!--
-**Suslik2006/Suslik2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю веб-разработку. Здесь собираю учебные проекты
+и пробую новые идеи.
 
-Here are some ideas to get you started:
+I’m learning web development. This is where I share
+my learning projects and try out new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек · Tech stack
+
+HTML · CSS · JavaScript
+
+### Сейчас · Currently
+
+Закрепляю основы и практикуюсь на небольших веб-проектах.
+
+Building a solid foundation through small web projects.
