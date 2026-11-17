@@ -1,11 +1,17 @@
-<h1 align="center">Привет, я Даниил 👋 · Hi, I’m Daniel</h1>
+<h1 align="center">Привет, я Даниил 👋</h1>
+<h3 align="center">Hi, I’m Daniel — welcome to my GitHub</h3>
 
 <p align="center">
-  🎓 Студент PSU · Изучаю веб-разработку<br>
-  PSU student · Learning web development
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&lines=Learning+web+development;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Building+one+project+at+a+time" alt="Learning web development. HTML, CSS, JavaScript. Building one project at a time.">
+</p>
+
+<p align="center">
+  🎓 Студент PSU · PSU student<br>
+  🌱 Изучаю веб-разработку · Learning web development
 </p>
 
 ---
+
 
 ### 🛠️ Стек · Tech stack
 
