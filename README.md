@@ -44,17 +44,30 @@ through small web projects.
 
 ### 🚀 Мои проекты · My projects
 
-**[Сложно сосредоточиться · No Focus](https://github.com/Suslik2006/slozhno-sosredotochitsya-fd)**  
-Учебный сайт с выбором темы и галереей изображений.  
-A learning project with theme switching and an image gallery.
-
-[Открыть сайт · Live demo ↗](https://suslik2006.github.io/slozhno-sosredotochitsya-fd/)
-
-**[Закрывающий тег · Closing Tag](https://github.com/Suslik2006/zakrivayuschiy-teg-f)**  
-Учебный дневник с карточками и интерактивными элементами.  
-A card-based learning journal with interactive elements.
-
-[Открыть сайт · Live demo ↗](https://suslik2006.github.io/zakrivayuschiy-teg-f/)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🌙 No Focus</h3>
+<p>Сайт о концентрации с выбором темы.<br>A website about focus with theme switching.</p>
+</td>
+<td width="50%" valign="top">
+<h3>💾 Closing Tag</h3>
+<p>Дневник обучения с интерактивными карточками.<br>A learning journal with interactive cards.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+<a href="https://suslik2006.github.io/slozhno-sosredotochitsya-fd/"><img src="https://img.shields.io/badge/Демо_·_Demo-2563EB?style=for-the-badge" alt="Открыть демо" width="144" height="35"></a>
+<a href="https://github.com/Suslik2006/slozhno-sosredotochitsya-fd"><img src="https://img.shields.io/badge/Код_·_Code-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Посмотреть код" width="152" height="35"></a>
+</td>
+<td width="50%" valign="top">
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+<a href="https://suslik2006.github.io/zakrivayuschiy-teg-f/"><img src="https://img.shields.io/badge/Демо_·_Demo-2563EB?style=for-the-badge" alt="Открыть демо" width="144" height="35"></a>
+<a href="https://github.com/Suslik2006/zakrivayuschiy-teg-f"><img src="https://img.shields.io/badge/Код_·_Code-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Посмотреть код" width="152" height="35"></a>
+</td>
+</tr>
+</table>
 
 ---
 
